@@ -1,0 +1,18 @@
+[2026-04-08T12:56:29.462Z] === BOT STARTED ===
+[2026-04-08T12:56:30.030Z] Bot started - Ready for requests
+[2026-04-08T12:56:30.051Z] Warming up connection pool...
+[2026-04-08T12:56:30.298Z] Connection pool warmed up ✓
+[2026-04-08T12:56:40.911Z] WEATHER - Tbilisi | 129ms 
+[2026-04-08T12:56:41.871Z] WEATHER - Batumi | 46ms 
+[2026-04-08T12:56:42.909Z] WEATHER - Kutaisi | 42ms 
+[2026-04-08T12:56:43.948Z] WEATHER - Tbilisi | 44ms 
+[2026-04-08T12:56:47.013Z] SPEED - 32ms
+[2026-04-08T13:12:08.229Z] === BOT STARTED ===
+[2026-04-08T13:12:09.560Z] Bot started - Ready for requests
+[2026-04-08T13:12:09.562Z] ERROR [POLLING] - EFATAL: Telegram Bot Token not provided!
+[2026-04-08T13:12:09.563Z] Warming up connection pool...
+[2026-04-08T13:12:09.872Z] ERROR [WARMUP] - Request failed with status code 401
+[2026-04-08T13:12:10.566Z] ERROR [POLLING] - EFATAL: Telegram Bot Token not provided!
+[2026-04-08T13:12:11.582Z] ERROR [POLLING] - EFATAL: Telegram Bot Token not provided!
+[2026-04-08T13:12:12.584Z] ERROR [POLLING] - EFATAL: Telegram Bot Token not provided!
+[2026-04-08T13:19:34.954Z] ERROR [POLLING] - EFATAL: Telegram Bot Token not provided!
